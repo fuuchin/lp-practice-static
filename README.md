@@ -12,5 +12,14 @@ https://github.com/fuuchin/lp-practice-static/projects/2
 
 http://fuuchin.s223.xrea.com/
 
+# ssh接続
+
+```
+ssh fuuchin@s223.xrea.com
+```
+
+もし家のルータ再起動などでグローバルIPアドレスが変わった場合は、以下のコントロールパネルより、もう一度許可し直してください。
+https://cp.xrea.com/site/tools/
+
 # 必要な情報
 「XREA.COM NEW SIGNUP」というメールに書かれています
